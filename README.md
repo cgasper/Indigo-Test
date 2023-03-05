@@ -26,7 +26,7 @@ Authentication works using **Postman** software, by sending a Bearer token to th
 ### Authenticator Instructions
 <br />
 
-E. G. sending a GET request with the Bearer token to the https://localhost:[PORT]/api/region/lastweek will output the data from *api/region/lastweek*
+E. G. sending a GET request with the Bearer token to the localhost:[PORT]/api/region/lastweek will output the data from *api/region/lastweek*
 
 <br />
 
