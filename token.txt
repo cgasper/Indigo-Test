@@ -1,0 +1,9 @@
+Token:
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyIiwianRpIjoiOWU2OTc4NTUtZmUyMC00OWE0LTk4OTktNDgwMjIzYjFmZGQ4IiwiZXhwIjoxNjc4MDA2MTE3LCJpc3MiOiJsb2NhbGhvc3QiLCJhdWQiOiJsb2NhbGhvc3QifQ.G9huuNkieeX1hs6gW3Feo-dMNy_9JlU4vzHCtpjzi90
+
+
+{
+    "username": "user",
+    "password": "user"
+}
