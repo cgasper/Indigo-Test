@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gasper\\Desktop\\test\\IndigoTest\\IndigoTest\\IndigoTest.csproj": {}
+    "Z:\\Code\\Indigo-Test\\IndigoTest\\IndigoTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gasper\\Desktop\\test\\IndigoTest\\IndigoTest\\IndigoTest.csproj": {
+    "Z:\\Code\\Indigo-Test\\IndigoTest\\IndigoTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gasper\\Desktop\\test\\IndigoTest\\IndigoTest\\IndigoTest.csproj",
+        "projectUniqueName": "Z:\\Code\\Indigo-Test\\IndigoTest\\IndigoTest.csproj",
         "projectName": "IndigoTest",
-        "projectPath": "C:\\Users\\Gasper\\Desktop\\test\\IndigoTest\\IndigoTest\\IndigoTest.csproj",
+        "projectPath": "Z:\\Code\\Indigo-Test\\IndigoTest\\IndigoTest.csproj",
         "packagesPath": "C:\\Users\\Gasper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gasper\\Desktop\\test\\IndigoTest\\IndigoTest\\obj\\",
+        "outputPath": "Z:\\Code\\Indigo-Test\\IndigoTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

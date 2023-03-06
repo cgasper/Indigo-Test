@@ -275,7 +275,7 @@ namespace IndigoTest.Controllers
                 Region = region.ToUpper(),
                 StartDate = startDate,
                 EndDate = endDate,
-                DateData = regionData
+                RegionData = regionData
             };
 
             return Ok(result);
@@ -325,7 +325,7 @@ namespace IndigoTest.Controllers
             // Create the result object
             var result = new
             {
-                RegionsData = regionsData
+                lastweekData = regionsData
             };
 
             return Ok(result);

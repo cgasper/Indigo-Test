@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hti6p7ZmWCOP6mXZz3gAQRLztUgpGuZbgpxp8DaxBdaKVZ5He3Wggf+WHv36LAC0lLZ3feS/Xr6ZBmXS+eFCdw==",
+  "dgSpecHash": "ukhtT0EvdNIvnDSfTiUAfD3PdJ5tVgQCZ5/qX16OIAhiOQetx3T81P5EjtyOtnZNDEz+erHjYGcD62aoK0Tqrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gasper\\Desktop\\test\\IndigoTest\\IndigoTest\\IndigoTest.csproj",
+  "projectFilePath": "Z:\\Code\\Indigo-Test\\IndigoTest\\IndigoTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gasper\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.14\\microsoft.aspnetcore.authentication.jwtbearer.6.0.14.nupkg.sha512",
     "C:\\Users\\Gasper\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
